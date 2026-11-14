@@ -1,9 +1,11 @@
-Hi, my name is Ross Smyth. I am an alum of [Michigan Technological Univeristy](https://www.mtu.edu/) and currently work at [ElectroCraft](https://www.electrocraft.com/) writing drive firmware, primarily for BLDCs. Topics of study I enjoy include the following:
-- Digital signal processing
-- Communication protocols
-- Compilers
-- Embedded software
-- Desktop tooling for firmware
-- Hardware in the loop testing
+Hi, my name is Ross Smyth. I am a maintainer of NixOS/Nixpkgs. I like making other developers' lives easier by improving tooling and APIs.
+I currently work on embedded firmware for motor drives. 
+
+- Nix/NixOS/Nixpkgs
+- Cross-compilation
+- Shipping secure-by-default software
+- Rust
+- Developer tooling
+- Process isolation
   
 [Checkout my website here](https://rosssmyth.github.io/)
